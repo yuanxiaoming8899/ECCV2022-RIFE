@@ -12,52 +12,12 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/hzwer/ECCV2022-RIFE/blob/main/demo/I2_slomo_clipped.gif" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="演示" class="AnimatedImagePlayer-animatedImage" src="https://github.com/hzwer/ECCV2022-RIFE/raw/main/demo/I2_slomo_clipped.gif" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="368" height="256"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放演示" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放演示">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="在新窗口中打开演示" class="AnimatedImagePlayer-button" href="https://github.com/hzwer/ECCV2022-RIFE/blob/main/demo/I2_slomo_clipped.gif" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image>
+     
 <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/hzwer/ECCV2022-RIFE/blob/main/demo/D2_slomo_clipped.gif" data-target="animated-image.originalLink"><img src="/hzwer/ECCV2022-RIFE/raw/main/demo/D2_slomo_clipped.gif" alt="演示" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/hzwer/ECCV2022-RIFE/blob/main/demo/D2_slomo_clipped.gif" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="演示" class="AnimatedImagePlayer-animatedImage" src="https://github.com/hzwer/ECCV2022-RIFE/raw/main/demo/D2_slomo_clipped.gif" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="368" height="256"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="播放演示" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="播放演示">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="在新窗口中打开演示" class="AnimatedImagePlayer-button" href="https://github.com/hzwer/ECCV2022-RIFE/blob/main/demo/D2_slomo_clipped.gif" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+      
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件</font></font></h2><a id="user-content-software" class="anchor" aria-label="永久链接：软件" href="#software"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto"><a href="https://nmkd.itch.io/flowframes" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">流程框架</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| </font></font><a href="https://github.com/YiWeiHuang-stack/Squirrel-Video-Frame-Interpolation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SVFI(中文)</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> | </font></font><a href="https://github.com/AaronFeng753/Waifu2x-Extension-GUI"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Waifu2x-扩展-GUI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> |</font></font><a href="https://vimeo.com/505942142" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欧特克火焰</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">|</font></font><a href="https://www.svp-team.com/wiki/RIFE_AI_interpolation" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级副总裁</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">| </font></font><a href="https://github.com/hooke007/MPV_lazy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MPV_lazy</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> |</font></font><a href="https://github.com/mafiosnik777/enhancr"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">增强</font></font></a></p>
 <p dir="auto"><a href="https://grisk.itch.io/rife-app" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RIFE-App（付费）</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> | </font></font><a href="https://store.steampowered.com/app/1692080/SVFI/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Steam-VFI(付费)</font></font></a></p>
@@ -263,32 +223,7 @@ pip3 install -r requirements.txt" tabindex="0" role="button">
 <p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MiddleBury</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：</font><font style="vertical-align: inherit;">在 ./other-data 和 ./other-gt-interp下载</font></font><a href="https://vision.middlebury.edu/flow/data/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MiddleBury OTHER 数据集</font></font></a><font style="vertical-align: inherit;"></font></p>
 <p dir="auto"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HD</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：在 ./HD_dataset 下载</font></font><a href="https://github.com/baowenbo/MEMC-Net"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">HD 数据集</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。我们还提供</font></font><a href="https://drive.google.com/file/d/1iHaLoR2g1-FLgr9MEv51NH_KQYMYz-FA/view?usp=sharing" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">谷歌驱动器下载链接</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code># RIFE
-python3 benchmark/UCF101.py
-# "PSNR: 35.282 SSIM: 0.9688"
-python3 benchmark/Vimeo90K.py
-# "PSNR: 35.615 SSIM: 0.9779"
-python3 benchmark/MiddleBury_Other.py
-# "IE: 1.956"
-python3 benchmark/HD.py
-# "PSNR: 32.14"
 
-# RIFE_m
-python3 benchmark/HD_multi_4X.py
-# "PSNR: 22.96(544*1280), 31.87(720p), 34.25(1080p)"
-</code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="# RIFE
-python3 benchmark/UCF101.py
-# &quot;PSNR: 35.282 SSIM: 0.9688&quot;
-python3 benchmark/Vimeo90K.py
-# &quot;PSNR: 35.615 SSIM: 0.9779&quot;
-python3 benchmark/MiddleBury_Other.py
-# &quot;IE: 1.956&quot;
-python3 benchmark/HD.py
-# &quot;PSNR: 32.14&quot;
-
-# RIFE_m
-python3 benchmark/HD_multi_4X.py
-# &quot;PSNR: 22.96(544*1280), 31.87(720p), 34.25(1080p)&quot;" tabindex="0" role="button">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
 </svg>
